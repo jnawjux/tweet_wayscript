@@ -105,3 +105,4 @@ venv.bak/
 
 # Twitter info
 config.py
+g_client.json
